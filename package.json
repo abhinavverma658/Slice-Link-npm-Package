@@ -1,0 +1,27 @@
+{
+  "name": "slice-link-npm-package",
+  "version": "1.0.0",
+  "description": "An npm Package for converting long URL to Short URL using an API (By-Ulvis.net)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavverma658/Slice-Link-npm-Package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abhinav Verma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/abhinavverma658/Slice-Link-npm-Package/issues"
+  },
+  "homepage": "https://github.com/abhinavverma658/Slice-Link-npm-Package#readme",
+  "dependencies": {
+    "linebyline": "^1.3.0",
+    "node-fetch": "^2.7.0"
+  }
+}
