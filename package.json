@@ -1,7 +1,7 @@
 {
   "name": "slice-link-npm-package",
-  "version": "1.0.0",
-  "description": "An npm Package for converting long URL to Short URL using an API (By-Ulvis.net)",
+  "version": "1.0.2",
+  "description": "An npm Package for converting long URL to Short URL using an API(Ulvis.net) By -Abhinav Verma",
   "main": "index.js",
   "type": "module",
   "scripts": {
